@@ -3,7 +3,7 @@ A tool for downloading multiple episodes from horriblesubs.info
 
 ## **Disclaimer**: This tool is not assosiated with horriblesubs.info.
 
-This tool was built upon npm API package that you can find [here](https://github.com/DrKain/npm-horriblesubs).
+This tool was built with the help of the npm API package that you can find [here](https://github.com/DrKain/npm-horriblesubs).
 
 ### How To use
 
