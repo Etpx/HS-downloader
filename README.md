@@ -7,7 +7,7 @@ This tool was built with the help of the npm API package that you can find [here
 
 ### How To use
 
-There isn't much difficulity using the tool, all what you have to do is download the right version for your device from [here]()
+There isn't much difficulty using the tool, all what you have to do is download the right version for your device from [here]()
 
 Unzip the file then you're good to go!
 
