@@ -1,0 +1,41 @@
+/* This page is for styling the loader */
+#loader { 
+    border: 20px solid #f3f3f3; 
+    border-radius: 50%; 
+    border-top: 20px solid #3498db; 
+    width: 200px; 
+    height: 200px; 
+    animation: spin 1s linear infinite;
+} 
+  
+@keyframes spin { 
+    100% { 
+        transform: rotate(360deg); 
+    } 
+} 
+  
+.center { 
+    position: absolute; 
+    top: 0;
+    bottom: 0; 
+    left: 0;
+    right: 0;
+    margin: auto; 
+}
+
+#text {
+    text-align: center;
+    font-weight: bold;
+    color: #fff;
+    margin-top: 450px;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(80, 80, 80);
+    color: white;
+    text-align: center;
+ }
